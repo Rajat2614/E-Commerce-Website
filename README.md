@@ -1,2 +1,2 @@
 # E-Commerce-Website
-https://github.com/Rajat2614/E-Commerce-Website/
+https://rajat2614.github.io/E-Commerce-Website/
